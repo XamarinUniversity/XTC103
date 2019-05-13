@@ -7,4 +7,3 @@ For the latest free Xamarin training, head over to [Microsoft Learn](https://aka
 ## Course materials
 
 * [Course video](https://youtu.be/7RbDbjQnyng)
-* [Exercise instructions](https://XamarinUniversity.github.io/XTC103/)
